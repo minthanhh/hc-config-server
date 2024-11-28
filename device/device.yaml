@@ -1,8 +1,0 @@
-build:
-  version: "v0.0.1"
-
-device:
-  message: "Welcome to Homechow device related docker APIs on Development"
-  information:
-    email: "device@homechow.com"
-    image: "homechow/device-service:v0.0.1"
